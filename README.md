@@ -1,5 +1,5 @@
 # maincraft-intern-pythonprogramming
-
+# task-1
 ## python basic programs
 ### this repository contains:
 1. Sum of Two Numbers
@@ -11,3 +11,21 @@
 7. Leap year
 8. Armstrong number
 
+# task-2
+## 💰 Expense Tracker
+A simple Python CLI application to manage daily expenses.
+## 🚀 Features
+
+* Add expense
+* View expenses
+* Calculate total
+* Stores data in CSV
+
+## Run
+
+```bash
+python expense_tracker.py
+```
+
+## Tech
+Python, CSV (file handling)
